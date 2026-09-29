@@ -1,0 +1,5202 @@
+[
+ {
+  "id": 1,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "O que era o dia de Pentecostes?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A festa do Ano Novo judaico"
+   },
+   {
+    "key": "b",
+    "text": "A festa das colheitas, celebrada 50 dias depois da Páscoa"
+   },
+   {
+    "key": "c",
+    "text": "O dia do perdão"
+   },
+   {
+    "key": "d",
+    "text": "A festa da dedicação do Templo"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A lição explica que Pentecostes era a festa das colheitas, celebrada 50 dias após a Páscoa. Nesse dia o Espírito Santo desceu sobre os discípulos."
+ },
+ {
+  "id": 2,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Onde Jesus ordenou que os discípulos esperassem a promessa do Pai?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Na Galileia"
+   },
+   {
+    "key": "b",
+    "text": "Em Damasco"
+   },
+   {
+    "key": "c",
+    "text": "Em Jerusalém"
+   },
+   {
+    "key": "d",
+    "text": "Em Betânia"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Jesus mandou que ficassem em Jerusalém até receberem o Batismo no Espírito Santo (At 1.4,5)."
+ },
+ {
+  "id": 3,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Quanto tempo Jesus passou com os discípulos após a ressurreição?",
+  "options": [
+   {
+    "key": "a",
+    "text": "40 dias"
+   },
+   {
+    "key": "b",
+    "text": "50 dias"
+   },
+   {
+    "key": "c",
+    "text": "3 dias"
+   },
+   {
+    "key": "d",
+    "text": "12 dias"
+   }
+  ],
+  "answer": "a",
+  "explanation": "A lição diz que Jesus passou quarenta dias instruindo os discípulos antes de subir ao céu."
+ },
+ {
+  "id": 4,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Qual profeta do Antigo Testamento Pedro citou para explicar o derramamento do Espírito?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Isaías"
+   },
+   {
+    "key": "b",
+    "text": "Amós"
+   },
+   {
+    "key": "c",
+    "text": "Jeremias"
+   },
+   {
+    "key": "d",
+    "text": "Joel"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Pedro explicou que Joel já havia anunciado o derramamento do Espírito (Jl 2.28,29; At 2.14-18)."
+ },
+ {
+  "id": 5,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Qual característica marcava a igreja primitiva, segundo At 2.42-47?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Cada um guardava seus bens para si"
+   },
+   {
+    "key": "b",
+    "text": "Dividiam o que tinham, viviam em comunhão e se reuniam para orar"
+   },
+   {
+    "key": "c",
+    "text": "Reuniam-se apenas uma vez por ano"
+   },
+   {
+    "key": "d",
+    "text": "Evitavam falar de Jesus em público"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A igreja vivia em amor, repartia os bens para suprir as necessidades e se reunia para cultuar e orar."
+ },
+ {
+  "id": 6,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Em que idioma foi escrito o Novo Testamento?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Grego koiné"
+   },
+   {
+    "key": "b",
+    "text": "Hebraico"
+   },
+   {
+    "key": "c",
+    "text": "Latim"
+   },
+   {
+    "key": "d",
+    "text": "Aramaico"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O grego koiné era a língua internacional da época, como o inglês é hoje."
+ },
+ {
+  "id": 7,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Qual língua os israelitas falavam no dia a dia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Latim"
+   },
+   {
+    "key": "b",
+    "text": "Grego"
+   },
+   {
+    "key": "c",
+    "text": "Aramaico"
+   },
+   {
+    "key": "d",
+    "text": "Hebraico"
+   }
+  ],
+  "answer": "c",
+  "explanation": "No cotidiano falava-se aramaico. O hebraico era usado no culto da sinagoga."
+ },
+ {
+  "id": 8,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "O que colaborou com a expansão do Evangelho no mundo romano?",
+  "options": [
+   {
+    "key": "a",
+    "text": "As guerras constantes"
+   },
+   {
+    "key": "b",
+    "text": "A proibição de viagens"
+   },
+   {
+    "key": "c",
+    "text": "O isolamento das cidades"
+   },
+   {
+    "key": "d",
+    "text": "A estabilidade do Império e a rede de estradas e rotas marítimas"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A estabilidade e as estradas romanas permitiram que os apóstolos viajassem de cidade em cidade pregando e levando cartas."
+ },
+ {
+  "id": 9,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Qual a diferença entre os nomes \"Saulo\" e \"Paulo\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Eram duas pessoas diferentes"
+   },
+   {
+    "key": "b",
+    "text": "Saulo era o nome hebraico e Paulo, o romano"
+   },
+   {
+    "key": "c",
+    "text": "Paulo era o nome antes da conversão"
+   },
+   {
+    "key": "d",
+    "text": "Saulo era um apelido dado pelos apóstolos"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Os dois nomes se referem à mesma pessoa: Saulo é o nome hebraico, Paulo o romano (At 13.9)."
+ },
+ {
+  "id": 10,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Onde Paulo nasceu?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Em Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Em Damasco"
+   },
+   {
+    "key": "c",
+    "text": "Em Antioquia"
+   },
+   {
+    "key": "d",
+    "text": "Em Tarso, capital da Cilícia"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Paulo era um \"judeu das nações\", nascido em Tarso, cidade que hoje fica na Turquia."
+ },
+ {
+  "id": 11,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "O que significa a palavra \"apóstolo\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Enviado"
+   },
+   {
+    "key": "b",
+    "text": "Professor"
+   },
+   {
+    "key": "c",
+    "text": "Sacerdote"
+   },
+   {
+    "key": "d",
+    "text": "Estrangeiro"
+   }
+  ],
+  "answer": "a",
+  "explanation": "\"Apóstolo\" vem do grego e significa \"enviado\". \"Gentio\" é quem não é judeu."
+ },
+ {
+  "id": 12,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Com qual rabino Paulo estudou em Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Nicodemos"
+   },
+   {
+    "key": "b",
+    "text": "Gamaliel"
+   },
+   {
+    "key": "c",
+    "text": "Caifás"
+   },
+   {
+    "key": "d",
+    "text": "Anás"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Na adolescência, Paulo foi estudar com o importante rabino Gamaliel (At 22.3)."
+ },
+ {
+  "id": 13,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Qual era a profissão de Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pescador"
+   },
+   {
+    "key": "b",
+    "text": "Cobrador de impostos"
+   },
+   {
+    "key": "c",
+    "text": "Fazedor de barracas"
+   },
+   {
+    "key": "d",
+    "text": "Carpinteiro"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo exercia a profissão de fazer barracas (At 18.3)."
+ },
+ {
+  "id": 14,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Quais idiomas Paulo falava?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Apenas hebraico"
+   },
+   {
+    "key": "b",
+    "text": "Aramaico e egípcio"
+   },
+   {
+    "key": "c",
+    "text": "Somente grego"
+   },
+   {
+    "key": "d",
+    "text": "Aramaico, hebraico, grego e latim"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Paulo era poliglota: falava aramaico e hebraico por ser judeu, e grego e latim pelo contato com outros povos."
+ },
+ {
+  "id": 15,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "De qual morte Saulo foi aprovador?",
+  "options": [
+   {
+    "key": "a",
+    "text": "De Estêvão"
+   },
+   {
+    "key": "b",
+    "text": "De Tiago"
+   },
+   {
+    "key": "c",
+    "text": "De João Batista"
+   },
+   {
+    "key": "d",
+    "text": "De Pedro"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Saulo aprovou o apedrejamento de Estêvão (At 8.1)."
+ },
+ {
+  "id": 16,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Quem Deus enviou para orar por Saulo em Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Barnabé"
+   },
+   {
+    "key": "b",
+    "text": "Pedro"
+   },
+   {
+    "key": "c",
+    "text": "Ananias"
+   },
+   {
+    "key": "d",
+    "text": "Silas"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Deus apareceu a Ananias e o instruiu a orar por Saulo, que voltou a enxergar, ficou cheio do Espírito e foi batizado (At 9.10-20)."
+ },
+ {
+  "id": 17,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Como Paulo escapou dos que queriam matá-lo em Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Disfarçado de soldado"
+   },
+   {
+    "key": "b",
+    "text": "Dentro de um cesto, por uma abertura da muralha"
+   },
+   {
+    "key": "c",
+    "text": "Escondido num navio"
+   },
+   {
+    "key": "d",
+    "text": "Montado num camelo durante a noite"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Os irmãos o desceram num cesto pela muralha da cidade (2 Co 11.32,33)."
+ },
+ {
+  "id": 18,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Onde Paulo passou os chamados \"anos ocultos ou silenciosos\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Na Arábia"
+   },
+   {
+    "key": "b",
+    "text": "Em Roma"
+   },
+   {
+    "key": "c",
+    "text": "Em Chipre"
+   },
+   {
+    "key": "d",
+    "text": "Na Macedônia"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Combinando Atos com Gálatas, sabe-se que Paulo passou um tempo na Arábia (Gl 1.15-18)."
+ },
+ {
+  "id": 19,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Quanto tempo Paulo ficou em Damasco depois de voltar da Arábia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um ano"
+   },
+   {
+    "key": "b",
+    "text": "Seis meses"
+   },
+   {
+    "key": "c",
+    "text": "Três anos"
+   },
+   {
+    "key": "d",
+    "text": "Dez anos"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo voltou a Damasco e ficou mais três anos (Gl 1.18)."
+ },
+ {
+  "id": 20,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Com quais apóstolos Paulo falou em sua visita a Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "João e André"
+   },
+   {
+    "key": "b",
+    "text": "Pedro e Tiago"
+   },
+   {
+    "key": "c",
+    "text": "Tomé e Filipe"
+   },
+   {
+    "key": "d",
+    "text": "Mateus e Bartolomeu"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O próprio Paulo menciona que falou com Pedro e Tiago (Gl 1.18,19)."
+ },
+ {
+  "id": 21,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Quem apresentou Paulo aos apóstolos quando a igreja desconfiava dele?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Silas"
+   },
+   {
+    "key": "b",
+    "text": "Timóteo"
+   },
+   {
+    "key": "c",
+    "text": "Lucas"
+   },
+   {
+    "key": "d",
+    "text": "Barnabé"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A igreja conhecia o Saulo perseguidor, então Barnabé apresentou o Paulo transformado aos apóstolos."
+ },
+ {
+  "id": 22,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Para onde os irmãos ajudaram Paulo a escapar ao sair de Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Cesareia"
+   },
+   {
+    "key": "b",
+    "text": "Éfeso"
+   },
+   {
+    "key": "c",
+    "text": "Atenas"
+   },
+   {
+    "key": "d",
+    "text": "Roma"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Os irmãos o levaram para Cesareia, e de lá ele seguiu para Tarso (At 9.30)."
+ },
+ {
+  "id": 23,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Em que cidade os seguidores de Jesus foram chamados de \"cristãos\" pela primeira vez?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Damasco"
+   },
+   {
+    "key": "c",
+    "text": "Antioquia da Síria"
+   },
+   {
+    "key": "d",
+    "text": "Cesareia"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Em Antioquia da Síria os discípulos foram chamados de cristãos pela primeira vez (At 11.26)."
+ },
+ {
+  "id": 24,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Segundo a lição, quem convence as pessoas do pecado?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O pregador mais eloquente"
+   },
+   {
+    "key": "b",
+    "text": "O Espírito Santo"
+   },
+   {
+    "key": "c",
+    "text": "Os líderes da igreja"
+   },
+   {
+    "key": "d",
+    "text": "A própria pessoa, sozinha"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Nosso dever é falar de Jesus, mas é o Espírito Santo quem convence do pecado (Jo 16.7,8)."
+ },
+ {
+  "id": 25,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Por que a igreja de Jerusalém se dispersou?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Por causa de uma fome"
+   },
+   {
+    "key": "b",
+    "text": "Por ordem dos apóstolos"
+   },
+   {
+    "key": "c",
+    "text": "Por causa da perseguição após o apedrejamento de Estêvão"
+   },
+   {
+    "key": "d",
+    "text": "Por causa de um terremoto"
+   }
+  ],
+  "answer": "c",
+  "explanation": "A perseguição espalhou os irmãos, que pregaram onde se estabeleceram (At 8.1,4; 11.19-21)."
+ },
+ {
+  "id": 26,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Por que a igreja de Antioquia enviou dinheiro para a Judeia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para construir um templo"
+   },
+   {
+    "key": "b",
+    "text": "Por causa de uma fome na região"
+   },
+   {
+    "key": "c",
+    "text": "Para pagar impostos romanos"
+   },
+   {
+    "key": "d",
+    "text": "Para comprar livros"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A igreja de Antioquia era generosa e enviou ajuda por meio de Paulo e Barnabé (At 11.29,30)."
+ },
+ {
+  "id": 27,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Quem ordenou que Barnabé e Saulo fossem enviados como missionários?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O Espírito Santo"
+   },
+   {
+    "key": "b",
+    "text": "O imperador romano"
+   },
+   {
+    "key": "c",
+    "text": "Pedro"
+   },
+   {
+    "key": "d",
+    "text": "O Sinédrio"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Enquanto profetas e mestres oravam, o Espírito Santo mandou separar Barnabé e Saulo (At 13.2)."
+ },
+ {
+  "id": 28,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "O que a liderança de Antioquia fez antes de enviar os missionários?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Fez uma festa de despedida"
+   },
+   {
+    "key": "b",
+    "text": "Deu-lhes muito dinheiro"
+   },
+   {
+    "key": "c",
+    "text": "Escreveu uma carta ao imperador"
+   },
+   {
+    "key": "d",
+    "text": "Jejuou, orou e impôs as mãos sobre eles"
+   }
+  ],
+  "answer": "d",
+  "explanation": "\"Então eles jejuaram, e oraram, e puseram as mãos sobre Barnabé e Saulo\" (At 13.3)."
+ },
+ {
+  "id": 29,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Quem acompanhou Paulo na primeira viagem missionária?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Silas e Timóteo"
+   },
+   {
+    "key": "b",
+    "text": "Lucas e Tito"
+   },
+   {
+    "key": "c",
+    "text": "Barnabé e João Marcos"
+   },
+   {
+    "key": "d",
+    "text": "Priscila e Áquila"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo partiu com Barnabé e João Marcos (At 13.5)."
+ },
+ {
+  "id": 30,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Em média, quantos quilômetros uma caravana percorria por dia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "30 km"
+   },
+   {
+    "key": "b",
+    "text": "120 km"
+   },
+   {
+    "key": "c",
+    "text": "10 km"
+   },
+   {
+    "key": "d",
+    "text": "300 km"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Uma caravana andava 30 km por dia, a 3 km por hora. A cavalo, a média era de 120 km."
+ },
+ {
+  "id": 31,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "De Selêucia, para onde Paulo e Barnabé navegaram?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Creta"
+   },
+   {
+    "key": "b",
+    "text": "Malta"
+   },
+   {
+    "key": "c",
+    "text": "Chipre"
+   },
+   {
+    "key": "d",
+    "text": "Roma"
+   }
+  ],
+  "answer": "c",
+  "explanation": "De Selêucia pegaram um barco até a ilha de Chipre (At 13.4)."
+ },
+ {
+  "id": 32,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "O que Paulo e Barnabé fizeram ao voltar a Antioquia da Síria?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Abandonaram o ministério"
+   },
+   {
+    "key": "b",
+    "text": "Contaram tudo o que Deus havia feito em cada cidade"
+   },
+   {
+    "key": "c",
+    "text": "Foram presos"
+   },
+   {
+    "key": "d",
+    "text": "Partiram imediatamente para Roma"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Eles prestaram contas à igreja que os enviou (At 14.27), exemplo de obediência e compromisso."
+ },
+ {
+  "id": 33,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Quem era o governador de Chipre que creu em Deus?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Félix"
+   },
+   {
+    "key": "b",
+    "text": "Sérgio Paulo"
+   },
+   {
+    "key": "c",
+    "text": "Festo"
+   },
+   {
+    "key": "d",
+    "text": "Agripa"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O governador Sérgio Paulo passou a crer após ver o que aconteceu com Elimas (At 13.12)."
+ },
+ {
+  "id": 34,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Qual era o nome do mágico que tentou atrapalhar o governador?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Barjesus, também chamado Elimas"
+   },
+   {
+    "key": "b",
+    "text": "Demétrio"
+   },
+   {
+    "key": "c",
+    "text": "Simão"
+   },
+   {
+    "key": "d",
+    "text": "Tértulo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Barjesus (Elimas) era um falso profeta que tentava impedir o governador de entender a Palavra (At 13.6,8)."
+ },
+ {
+  "id": 35,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Qual foi a consequência da má conduta de Elimas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Foi preso"
+   },
+   {
+    "key": "b",
+    "text": "Ficou mudo"
+   },
+   {
+    "key": "c",
+    "text": "Ficou cego"
+   },
+   {
+    "key": "d",
+    "text": "Foi expulso da ilha"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Elimas ficou cego, e o governador, ao ver isso, creu (At 13.11,12)."
+ },
+ {
+  "id": 36,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Onde Paulo fez a pregação mais longa registrada em Atos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Em Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Em Perge"
+   },
+   {
+    "key": "c",
+    "text": "Em Chipre"
+   },
+   {
+    "key": "d",
+    "text": "Na sinagoga de Antioquia da Pisídia"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Na sinagoga de Antioquia da Pisídia, Paulo recontou a história de Israel e mostrou Jesus como o Messias (At 13.16-41)."
+ },
+ {
+  "id": 37,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Quem abandonou a viagem em Perge e voltou para Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "João Marcos"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé"
+   },
+   {
+    "key": "c",
+    "text": "Silas"
+   },
+   {
+    "key": "d",
+    "text": "Timóteo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Em Perge, João Marcos decidiu voltar para Jerusalém (At 13.13)."
+ },
+ {
+  "id": 38,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Que milagre aconteceu em Listra?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A ressurreição de um morto"
+   },
+   {
+    "key": "b",
+    "text": "A cura de um paralítico"
+   },
+   {
+    "key": "c",
+    "text": "A multiplicação de pães"
+   },
+   {
+    "key": "d",
+    "text": "A cura de um cego"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Em Listra, um dos resultados da pregação foi a cura de um paralítico (At 14.8-10)."
+ },
+ {
+  "id": 39,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Como os moradores de Listra chamaram Paulo e Barnabé?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Anjos e profetas"
+   },
+   {
+    "key": "b",
+    "text": "Reis e sacerdotes"
+   },
+   {
+    "key": "c",
+    "text": "Paulo de \"Mercúrio\" e Barnabé de \"Júpiter\""
+   },
+   {
+    "key": "d",
+    "text": "Magos e feiticeiros"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Eles recusaram esses títulos e pregaram que aqueles \"deuses\" não serviam para nada (At 14.11-15)."
+ },
+ {
+  "id": 40,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Para onde Paulo e Barnabé foram depois que Paulo foi apedrejado em Listra?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Derbe"
+   },
+   {
+    "key": "b",
+    "text": "Atenas"
+   },
+   {
+    "key": "c",
+    "text": "Jerusalém"
+   },
+   {
+    "key": "d",
+    "text": "Corinto"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Após o apedrejamento, seguiram para Derbe e depois voltaram animando os irmãos (At 14.19-22)."
+ },
+ {
+  "id": 41,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Qual problema doutrinário levou ao Concílio de Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A escolha de novos apóstolos"
+   },
+   {
+    "key": "b",
+    "text": "A construção de um templo cristão"
+   },
+   {
+    "key": "c",
+    "text": "A data da Páscoa"
+   },
+   {
+    "key": "d",
+    "text": "Se os gentios precisavam ser circuncidados e seguir a Lei de Moisés"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Alguns judeus convertidos exigiam que os gentios se circuncidassem e obedecessem à Lei (At 15.5)."
+ },
+ {
+  "id": 42,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Que experiência Pedro relembrou no Concílio?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O Espírito Santo descendo sobre o gentio Cornélio e sua família"
+   },
+   {
+    "key": "b",
+    "text": "Sua fuga da prisão"
+   },
+   {
+    "key": "c",
+    "text": "A pesca milagrosa"
+   },
+   {
+    "key": "d",
+    "text": "Sua negação de Jesus"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O Espírito desceu sobre Cornélio como no Pentecostes, mostrando que Deus trata a todos igualmente (At 10.34; 11.15-18)."
+ },
+ {
+  "id": 43,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Qual profeta Tiago citou para mostrar que os gentios fariam parte do povo de Deus?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Joel"
+   },
+   {
+    "key": "b",
+    "text": "Isaías"
+   },
+   {
+    "key": "c",
+    "text": "Amós"
+   },
+   {
+    "key": "d",
+    "text": "Daniel"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Tiago lembrou o que Amós (9.11-12) já havia anunciado (At 15.17,18)."
+ },
+ {
+  "id": 44,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Qual foi a decisão final do Concílio?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Somente judeus podem ser salvos"
+   },
+   {
+    "key": "b",
+    "text": "Qualquer pessoa, de qualquer origem, pode crer em Jesus e ser salva"
+   },
+   {
+    "key": "c",
+    "text": "Os gentios devem se tornar judeus primeiro"
+   },
+   {
+    "key": "d",
+    "text": "A decisão foi adiada"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A salvação em Cristo é para todos, judeus e gentios, pela graça."
+ },
+ {
+  "id": 45,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Qual destas NÃO estava entre as quatro orientações dadas aos gentios?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Não comer carne sacrificada a ídolos"
+   },
+   {
+    "key": "b",
+    "text": "Não comer sangue"
+   },
+   {
+    "key": "c",
+    "text": "Não praticar imoralidade sexual"
+   },
+   {
+    "key": "d",
+    "text": "Não comer carne de porco"
+   }
+  ],
+  "answer": "d",
+  "explanation": "As quatro orientações eram: carne sacrificada a ídolos, carne de animal estrangulado, sangue e imoralidade sexual (At 15.19,20)."
+ },
+ {
+  "id": 46,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Quem acompanhou Paulo e Barnabé para ler e entregar a carta em Antioquia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Judas e Silas"
+   },
+   {
+    "key": "b",
+    "text": "Timóteo e Tito"
+   },
+   {
+    "key": "c",
+    "text": "Pedro e João"
+   },
+   {
+    "key": "d",
+    "text": "Lucas e Marcos"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Judas e Silas levaram a carta, que foi recebida com alegria (At 15.27-31)."
+ },
+ {
+  "id": 47,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Segundo a lição, o que é doutrina bíblica?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Uma tradição humana"
+   },
+   {
+    "key": "b",
+    "text": "Uma reunião de líderes"
+   },
+   {
+    "key": "c",
+    "text": "Uma crença verdadeira, baseada no texto sagrado"
+   },
+   {
+    "key": "d",
+    "text": "Uma regra de etiqueta da igreja"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Doutrina bíblica é uma crença verdadeira baseada nas Escrituras. Concílio é a reunião para debatê-la."
+ },
+ {
+  "id": 48,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "O que significa \"viver pela graça e não pela lei\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Obedecer a todas as regras judaicas para ser salvo"
+   },
+   {
+    "key": "b",
+    "text": "Crer em Jesus como Salvador e aceitar a salvação como presente de Deus"
+   },
+   {
+    "key": "c",
+    "text": "Viver sem nenhum compromisso com Deus"
+   },
+   {
+    "key": "d",
+    "text": "Ser salvo pelas boas obras"
+   }
+  ],
+  "answer": "b",
+  "explanation": "\"Pela graça de Deus vocês são salvos por meio da fé... é um presente dado por Deus\" (Ef 2.8)."
+ },
+ {
+  "id": 49,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Por que Paulo e Barnabé se separaram?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Discordaram sobre a doutrina da salvação"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé ficou doente"
+   },
+   {
+    "key": "c",
+    "text": "Discordaram sobre levar João Marcos na viagem"
+   },
+   {
+    "key": "d",
+    "text": "Paulo foi preso"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Barnabé queria dar nova chance a João Marcos. Paulo discordou (At 15.37-39)."
+ },
+ {
+  "id": 50,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Quem passou a acompanhar Paulo na segunda viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Silas"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé"
+   },
+   {
+    "key": "c",
+    "text": "João Marcos"
+   },
+   {
+    "key": "d",
+    "text": "Apolo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Barnabé foi com João Marcos para Chipre, e Paulo seguiu com Silas (At 15.39,40)."
+ },
+ {
+  "id": 51,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Para onde o Espírito Santo impediu Paulo de ir?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Macedônia"
+   },
+   {
+    "key": "b",
+    "text": "Bitínia"
+   },
+   {
+    "key": "c",
+    "text": "Acaia"
+   },
+   {
+    "key": "d",
+    "text": "Filipos"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O Espírito impediu Paulo de ir à Bitínia e de pregar na província da Ásia (At 16.6,7)."
+ },
+ {
+  "id": 52,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Que visão Paulo teve em Trôade?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um anjo com uma espada"
+   },
+   {
+    "key": "b",
+    "text": "Jesus no trono"
+   },
+   {
+    "key": "c",
+    "text": "Um navio naufragando"
+   },
+   {
+    "key": "d",
+    "text": "Um homem da Macedônia pedindo ajuda"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Paulo viu um macedônio pedindo que fosse ajudá-los, e mudou sua rota (At 16.9)."
+ },
+ {
+  "id": 53,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Qual foi a primeira cidade da Europa onde Paulo pregou, segundo o registro?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filipos"
+   },
+   {
+    "key": "b",
+    "text": "Atenas"
+   },
+   {
+    "key": "c",
+    "text": "Corinto"
+   },
+   {
+    "key": "d",
+    "text": "Roma"
+   }
+  ],
+  "answer": "a",
+  "explanation": "De Trôade navegaram até Filipos, a primeira viagem registrada de Paulo à Europa."
+ },
+ {
+  "id": 54,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Que altar Paulo encontrou em Atenas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O altar de Júpiter"
+   },
+   {
+    "key": "b",
+    "text": "O altar de Diana"
+   },
+   {
+    "key": "c",
+    "text": "O altar \"ao Deus Desconhecido\""
+   },
+   {
+    "key": "d",
+    "text": "O altar de César"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo usou esse altar para anunciar que o Deus desconhecido se torna conhecido por Jesus Cristo (At 17.23)."
+ },
+ {
+  "id": 55,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Quanto tempo Paulo ficou em Corinto ensinando?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Três meses"
+   },
+   {
+    "key": "b",
+    "text": "Um ano e meio"
+   },
+   {
+    "key": "c",
+    "text": "Três anos"
+   },
+   {
+    "key": "d",
+    "text": "Uma semana"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Paulo ficou um ano e meio em Corinto ensinando as Escrituras (At 18.11)."
+ },
+ {
+  "id": 56,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Qual carta Paulo escreveu de Corinto após receber notícias de Silas e Timóteo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Romanos"
+   },
+   {
+    "key": "b",
+    "text": "Gálatas"
+   },
+   {
+    "key": "c",
+    "text": "1 Tessalonicenses"
+   },
+   {
+    "key": "d",
+    "text": "Filipenses"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Ao receber boas notícias da igreja de Tessalônica, Paulo escreveu a primeira carta a ela."
+ },
+ {
+  "id": 57,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Qual jovem Paulo convidou para seguir viagem em Derbe e Listra?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Tito"
+   },
+   {
+    "key": "b",
+    "text": "Timóteo"
+   },
+   {
+    "key": "c",
+    "text": "Tíquico"
+   },
+   {
+    "key": "d",
+    "text": "Apolo"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Timóteo acompanhou Paulo e anos depois se tornou um grande líder (At 16.2,3)."
+ },
+ {
+  "id": 58,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que Lídia vendia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Púrpura"
+   },
+   {
+    "key": "b",
+    "text": "Barracas"
+   },
+   {
+    "key": "c",
+    "text": "Perfumes"
+   },
+   {
+    "key": "d",
+    "text": "Trigo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Lídia era vendedora de púrpura, creu à beira do rio em Filipos e hospedou os missionários (At 16.13-15)."
+ },
+ {
+  "id": 59,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Quem hospedou Paulo em Tessalônica e acabou preso por isso?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Áquila"
+   },
+   {
+    "key": "b",
+    "text": "Dionísio"
+   },
+   {
+    "key": "c",
+    "text": "Jasão"
+   },
+   {
+    "key": "d",
+    "text": "Filemom"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Jasão foi arrastado às autoridades e só saiu após pagar fiança (At 17.5-9)."
+ },
+ {
+  "id": 60,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Quem creu em Atenas após a pregação de Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Lídia e o carcereiro"
+   },
+   {
+    "key": "b",
+    "text": "Priscila e Áquila"
+   },
+   {
+    "key": "c",
+    "text": "Sérgio Paulo e Elimas"
+   },
+   {
+    "key": "d",
+    "text": "Dionísio e Dâmaris"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Dionísio, membro da Câmara Municipal, e Dâmaris creram, com alguns outros (At 17.34)."
+ },
+ {
+  "id": 61,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Por que os senhores da jovem escrava ficaram furiosos com Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Porque perderam o lucro que ela dava com suas adivinhações"
+   },
+   {
+    "key": "b",
+    "text": "Porque Paulo a comprou"
+   },
+   {
+    "key": "c",
+    "text": "Porque Paulo os insultou"
+   },
+   {
+    "key": "d",
+    "text": "Porque ela fugiu"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Após Paulo expulsar o espírito mau, eles perderam o dinheiro e acusaram Paulo e Silas (At 16.18-20)."
+ },
+ {
+  "id": 62,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que Paulo e Silas fizeram na prisão em Filipos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Planejaram uma fuga"
+   },
+   {
+    "key": "b",
+    "text": "Reclamaram da injustiça"
+   },
+   {
+    "key": "c",
+    "text": "Oraram e cantaram"
+   },
+   {
+    "key": "d",
+    "text": "Ficaram em silêncio"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Em vez de reclamar, oraram e cantaram, e então houve um terremoto (At 16.25,26)."
+ },
+ {
+  "id": 63,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que Paulo e Silas responderam ao carcereiro que queria ser salvo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "\"Ofereça um sacrifício no templo\""
+   },
+   {
+    "key": "b",
+    "text": "\"Creia no Senhor Jesus e você será salvo, você e as pessoas da sua casa\""
+   },
+   {
+    "key": "c",
+    "text": "\"Siga a Lei de Moisés\""
+   },
+   {
+    "key": "d",
+    "text": "\"Liberte todos os presos\""
+   }
+  ],
+  "answer": "b",
+  "explanation": "Essa é a mensagem-chave da lição (At 16.31). Toda a família do carcereiro creu e foi batizada."
+ },
+ {
+  "id": 64,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que diferenciava os judeus de Bereia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Eles expulsaram Paulo imediatamente"
+   },
+   {
+    "key": "b",
+    "text": "Eles não sabiam ler"
+   },
+   {
+    "key": "c",
+    "text": "Eles adoravam ídolos"
+   },
+   {
+    "key": "d",
+    "text": "Estudavam as Escrituras todos os dias para conferir se o que Paulo dizia era verdade"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Os bereanos ouviam com interesse e examinavam as Escrituras diariamente (At 17.11)."
+ },
+ {
+  "id": 65,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Quem ajudou Paulo a pregar em toda a Ásia Menor nessa viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Timóteo e Erasto"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé e Marcos"
+   },
+   {
+    "key": "c",
+    "text": "Silas e Lucas"
+   },
+   {
+    "key": "d",
+    "text": "Pedro e Tiago"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Timóteo e Erasto acompanharam Paulo e aprenderam a pregar, plantar igrejas e resolver problemas (At 19.22)."
+ },
+ {
+  "id": 66,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Estando em Éfeso, Paulo escreveu uma carta dura a qual igreja?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Roma"
+   },
+   {
+    "key": "b",
+    "text": "Corinto"
+   },
+   {
+    "key": "c",
+    "text": "Filipos"
+   },
+   {
+    "key": "d",
+    "text": "Colossos"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Informado dos problemas da igreja de Corinto, Paulo escreveu aos coríntios (1 Co 16.5-8)."
+ },
+ {
+  "id": 67,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Durante a parada de três meses na Grécia, Paulo escreveu qual carta?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Efésios"
+   },
+   {
+    "key": "b",
+    "text": "2 Timóteo"
+   },
+   {
+    "key": "c",
+    "text": "Romanos"
+   },
+   {
+    "key": "d",
+    "text": "Gálatas"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Nessa parada (At 20.2,3), Paulo escreveu a Carta aos Romanos, igreja que ele ainda não conhecia."
+ },
+ {
+  "id": 68,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Por que Paulo mudou o plano de voltar da Grécia direto para a Síria?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Por causa de uma tempestade"
+   },
+   {
+    "key": "b",
+    "text": "Porque ficou doente"
+   },
+   {
+    "key": "c",
+    "text": "Por falta de dinheiro"
+   },
+   {
+    "key": "d",
+    "text": "Por causa de uma conspiração de judeus contra sua vida"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A conspiração o fez voltar pela Macedônia (At 20.3)."
+ },
+ {
+  "id": 69,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Por que Paulo tinha pressa de chegar a Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para estar lá no dia de Pentecostes"
+   },
+   {
+    "key": "b",
+    "text": "Para ser julgado"
+   },
+   {
+    "key": "c",
+    "text": "Para visitar sua família"
+   },
+   {
+    "key": "d",
+    "text": "Para fugir de Roma"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo queria chegar a tempo do Pentecostes (At 20.16), por isso fez paradas rápidas."
+ },
+ {
+  "id": 70,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "O que Paulo levava para a igreja de Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Uma nova lei"
+   },
+   {
+    "key": "b",
+    "text": "Pergaminhos do Antigo Testamento"
+   },
+   {
+    "key": "c",
+    "text": "A oferta das igrejas para ajudar os irmãos"
+   },
+   {
+    "key": "d",
+    "text": "Soldados romanos"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Ele levava o dinheiro das igrejas para ajudar Jerusalém, grande responsabilidade que cumpriu com êxito (Rm 15.25-27)."
+ },
+ {
+  "id": 71,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Em Mileto, Paulo se reuniu com os presbíteros de qual igreja?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filipos"
+   },
+   {
+    "key": "b",
+    "text": "Éfeso"
+   },
+   {
+    "key": "c",
+    "text": "Trôade"
+   },
+   {
+    "key": "d",
+    "text": "Corinto"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Paulo chamou os presbíteros de Éfeso para instruí-los e se despedir. Todos choraram (At 20.17-38)."
+ },
+ {
+  "id": 72,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Quem Priscila e Áquila instruíram sobre o \"Caminho de Deus\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Timóteo"
+   },
+   {
+    "key": "b",
+    "text": "Tito"
+   },
+   {
+    "key": "c",
+    "text": "Silas"
+   },
+   {
+    "key": "d",
+    "text": "Apolo"
+   }
+  ],
+  "answer": "d",
+  "explanation": "O casal instruiu Apolo com mais exatidão sobre o Caminho (At 18.24-26)."
+ },
+ {
+  "id": 73,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Quanto tempo Paulo permaneceu em Éfeso nessa viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Três anos"
+   },
+   {
+    "key": "b",
+    "text": "Três meses"
+   },
+   {
+    "key": "c",
+    "text": "Uma semana"
+   },
+   {
+    "key": "d",
+    "text": "Dez anos"
+   }
+  ],
+  "answer": "a",
+  "explanation": "A lição diz que Paulo passou três anos em Éfeso, preparando obreiros e discipulando novos convertidos."
+ },
+ {
+  "id": 74,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "O que faltava no ensino de Apolo antes da chegada de Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Ele não conhecia o Antigo Testamento"
+   },
+   {
+    "key": "b",
+    "text": "Ele só conhecia o batismo de João e não falava do Batismo no Espírito Santo"
+   },
+   {
+    "key": "c",
+    "text": "Ele não cria em Jesus"
+   },
+   {
+    "key": "d",
+    "text": "Ele pregava apenas para gentios"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Apolo ensinava sobre o batismo de João, mas não havia vivido nem ensinava o Batismo no Espírito (At 18.25)."
+ },
+ {
+  "id": 75,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "O que aconteceu quando Paulo impôs as mãos sobre os discípulos de Éfeso?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Foram curados de doenças"
+   },
+   {
+    "key": "b",
+    "text": "Ficaram cegos por três dias"
+   },
+   {
+    "key": "c",
+    "text": "Receberam o Espírito Santo, falaram em línguas e profetizaram"
+   },
+   {
+    "key": "d",
+    "text": "Foram expulsos da sinagoga"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Após serem batizados em nome de Jesus, receberam o Batismo no Espírito Santo (At 19.6,7)."
+ },
+ {
+  "id": 76,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "O que o espírito maligno disse aos judeus que tentaram imitar Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "\"Vocês têm autoridade sobre mim\""
+   },
+   {
+    "key": "b",
+    "text": "\"Eu vou embora\""
+   },
+   {
+    "key": "c",
+    "text": "\"Paulo é um mentiroso\""
+   },
+   {
+    "key": "d",
+    "text": "\"Eu conheço Jesus e sei quem é Paulo. Mas vocês, quem são?\""
+   }
+  ],
+  "answer": "d",
+  "explanation": "Os milagres de Deus não podem ser imitados por ação humana (At 19.13-15)."
+ },
+ {
+  "id": 77,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Qual foi o impacto desse episódio na cidade?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Praticantes de magia queimaram seus livros em público"
+   },
+   {
+    "key": "b",
+    "text": "Paulo foi expulso da cidade"
+   },
+   {
+    "key": "c",
+    "text": "O templo de Diana foi reformado"
+   },
+   {
+    "key": "d",
+    "text": "Nada mudou"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O evento impactou tanto a cidade que praticantes de magia queimaram seus livros de encantos (At 19.18-20)."
+ },
+ {
+  "id": 78,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Quem liderou a revolta contra Paulo em Éfeso, e por quê?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O governador, por questões políticas"
+   },
+   {
+    "key": "b",
+    "text": "Demétrio e os artesãos, porque perdiam dinheiro com a venda de objetos do templo de Diana"
+   },
+   {
+    "key": "c",
+    "text": "Os fariseus, por causa da Lei"
+   },
+   {
+    "key": "d",
+    "text": "Os soldados romanos, por desordem"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A conversão de muitos prejudicou o mercado de ídolos (At 19.24-28)."
+ },
+ {
+  "id": 79,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Em Jerusalém, por que Paulo aceitou participar de um ritual de purificação?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para ser aceito no Sinédrio"
+   },
+   {
+    "key": "b",
+    "text": "Para ganhar dinheiro"
+   },
+   {
+    "key": "c",
+    "text": "Para demonstrar que era boato a acusação de que ensinava o abandono da Lei de Moisés"
+   },
+   {
+    "key": "d",
+    "text": "Porque estava doente"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Os irmãos pediram que ele mostrasse que os boatos eram falsos (At 21.20-24)."
+ },
+ {
+  "id": 80,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Qual era o nome do comandante romano que prendeu Paulo em Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pórcio Festo"
+   },
+   {
+    "key": "b",
+    "text": "Félix"
+   },
+   {
+    "key": "c",
+    "text": "Cláudio Lísias"
+   },
+   {
+    "key": "d",
+    "text": "Júlio César"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo pediu a Cláudio Lísias para falar à multidão antes de ser levado (At 21.37-39)."
+ },
+ {
+  "id": 81,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "O que impediu que Paulo fosse chicoteado na fortaleza?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Sua cidadania romana"
+   },
+   {
+    "key": "b",
+    "text": "A intervenção de Pedro"
+   },
+   {
+    "key": "c",
+    "text": "Um terremoto"
+   },
+   {
+    "key": "d",
+    "text": "O pagamento de uma fiança"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Ninguém podia açoitar um cidadão romano sem julgamento (At 22.25-29)."
+ },
+ {
+  "id": 82,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "O que era o Sinédrio?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um templo pagão"
+   },
+   {
+    "key": "b",
+    "text": "O exército romano"
+   },
+   {
+    "key": "c",
+    "text": "Uma escola de rabinos"
+   },
+   {
+    "key": "d",
+    "text": "A mais alta corte dos judeus, que julgava com base na Lei de Moisés"
+   }
+  ],
+  "answer": "d",
+  "explanation": "O Sinédrio, ou \"Conselho Superior\", governava e julgava pela Lei (At 22.30)."
+ },
+ {
+  "id": 83,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Quem era o advogado da acusação no julgamento diante de Félix?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Tértulo"
+   },
+   {
+    "key": "b",
+    "text": "Gamaliel"
+   },
+   {
+    "key": "c",
+    "text": "Demétrio"
+   },
+   {
+    "key": "d",
+    "text": "Agripa"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O advogado Tértulo representou o Grande Sacerdote e os líderes (At 24.1)."
+ },
+ {
+  "id": 84,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Por quanto tempo Félix manteve Paulo preso em Cesareia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Seis meses"
+   },
+   {
+    "key": "b",
+    "text": "Dois anos"
+   },
+   {
+    "key": "c",
+    "text": "Cinco anos"
+   },
+   {
+    "key": "d",
+    "text": "Três dias"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Félix adiou a decisão e manteve Paulo preso por dois anos, querendo agradar os judeus e receber propina."
+ },
+ {
+  "id": 85,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Durante o julgamento diante de Festo, Paulo apelou para quem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para o Sinédrio"
+   },
+   {
+    "key": "b",
+    "text": "Para o rei Agripa"
+   },
+   {
+    "key": "c",
+    "text": "Para o imperador César"
+   },
+   {
+    "key": "d",
+    "text": "Para a igreja de Jerusalém"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo apelou para César, e por isso precisou ir a Roma (At 25.10,11)."
+ },
+ {
+  "id": 86,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Em que ilha Paulo foi picado por uma cobra e não sofreu mal algum?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Chipre"
+   },
+   {
+    "key": "b",
+    "text": "Creta"
+   },
+   {
+    "key": "c",
+    "text": "Rodes"
+   },
+   {
+    "key": "d",
+    "text": "Malta"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Após o naufrágio, todos chegaram a Malta, onde Deus livrou Paulo da cobra (At 28.4,5)."
+ },
+ {
+  "id": 87,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Quais cartas são conhecidas como \"epístolas da prisão\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Romanos, Gálatas, 1 e 2 Coríntios"
+   },
+   {
+    "key": "b",
+    "text": "Colossenses, Efésios, Filipenses e Filemom"
+   },
+   {
+    "key": "c",
+    "text": "1 e 2 Timóteo e Tito"
+   },
+   {
+    "key": "d",
+    "text": "1 e 2 Tessalonicenses"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Foram escritas durante a prisão domiciliar em Roma, entre 60 e 62 d.C."
+ },
+ {
+  "id": 88,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Como sabemos que Lucas viajou com Paulo, se seu nome não aparece em Atos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pelos registros romanos"
+   },
+   {
+    "key": "b",
+    "text": "Porque a narrativa usa \"nós\" em alguns trechos"
+   },
+   {
+    "key": "c",
+    "text": "Por uma carta de Pedro"
+   },
+   {
+    "key": "d",
+    "text": "Porque Lucas era parente de Paulo"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Trechos como At 16.10 (\"nós resolvemos partir\") mostram que o escritor estava junto."
+ },
+ {
+  "id": 89,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Barnabé era natural de onde?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Chipre"
+   },
+   {
+    "key": "b",
+    "text": "Tarso"
+   },
+   {
+    "key": "c",
+    "text": "Roma"
+   },
+   {
+    "key": "d",
+    "text": "Listra"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Barnabé era judeu, natural de Chipre, homem bom, cheio do Espírito e de fé (At 11.24)."
+ },
+ {
+  "id": 90,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual era a origem familiar de Timóteo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filho de pais romanos"
+   },
+   {
+    "key": "b",
+    "text": "Filho de pai judeu e mãe grega"
+   },
+   {
+    "key": "c",
+    "text": "Filho de mãe judia e pai gentio"
+   },
+   {
+    "key": "d",
+    "text": "Filho de um sacerdote"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Timóteo era de Listra, filho de mãe judia e pai gentio (At 16.1)."
+ },
+ {
+  "id": 91,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual companheiro de Paulo não aparece no livro de Atos, somente nas cartas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Timóteo"
+   },
+   {
+    "key": "b",
+    "text": "Silas"
+   },
+   {
+    "key": "c",
+    "text": "Aristarco"
+   },
+   {
+    "key": "d",
+    "text": "Tito"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Tito aparece apenas em 2 Coríntios, Gálatas e na carta que leva seu nome."
+ },
+ {
+  "id": 92,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Entre quais pessoas Paulo encaminhou uma reconciliação por carta?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filemom e Onésimo"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé e João Marcos"
+   },
+   {
+    "key": "c",
+    "text": "Apolo e Áquila"
+   },
+   {
+    "key": "d",
+    "text": "Lucas e Timóteo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Onésimo, escravo que fugiu de Filemom, foi reconciliado por meio da carta de Paulo (Fm 10-12)."
+ },
+ {
+  "id": 93,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual foi um papel importante de Febe?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Escreveu o livro de Atos"
+   },
+   {
+    "key": "b",
+    "text": "Foi presa com Paulo em Filipos"
+   },
+   {
+    "key": "c",
+    "text": "Levou a Epístola aos Romanos e cooperou em Cencreia"
+   },
+   {
+    "key": "d",
+    "text": "Vendia púrpura em Filipos"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Febe foi portadora da carta aos Romanos e hospedou obreiros (Rm 16.1,2)."
+ },
+ {
+  "id": 94,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Por que Áquila e Priscila foram morar em Corinto?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para abrir uma igreja"
+   },
+   {
+    "key": "b",
+    "text": "Porque o imperador Cláudio expulsou os judeus de Roma"
+   },
+   {
+    "key": "c",
+    "text": "Para fugir de um naufrágio"
+   },
+   {
+    "key": "d",
+    "text": "Porque Paulo os chamou"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A expulsão levou o casal a Corinto, onde conheceu Paulo (At 18.2)."
+ },
+ {
+  "id": 95,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Segundo a tradição (a Bíblia não relata), como Paulo morreu?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Crucificado em Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Apedrejado em Listra"
+   },
+   {
+    "key": "c",
+    "text": "Num naufrágio"
+   },
+   {
+    "key": "d",
+    "text": "Decapitado em Roma, por volta de 68 d.C."
+   }
+  ],
+  "answer": "d",
+  "explanation": "A lição informa que a Bíblia não relata a morte de Paulo, mas a tradição diz que ele foi decapitado."
+ },
+ {
+  "id": 96,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "O que Paulo pediu que Timóteo lhe levasse na prisão?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Sua capa e seus livros"
+   },
+   {
+    "key": "b",
+    "text": "Dinheiro e comida"
+   },
+   {
+    "key": "c",
+    "text": "Uma espada"
+   },
+   {
+    "key": "d",
+    "text": "Cartas dos coríntios"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Provavelmente porque o inverno chegava, Paulo pediu a capa e os livros (2 Tm 4.13)."
+ },
+ {
+  "id": 97,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Quantos dos 27 livros do Novo Testamento foram escritos por Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "7"
+   },
+   {
+    "key": "b",
+    "text": "13"
+   },
+   {
+    "key": "c",
+    "text": "21"
+   },
+   {
+    "key": "d",
+    "text": "4"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Das 27 obras do Novo Testamento, 13 são cartas de Paulo."
+ },
+ {
+  "id": 98,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual a diferença entre papiro e pergaminho?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Ambos eram feitos de pedra"
+   },
+   {
+    "key": "b",
+    "text": "O papiro era feito de couro e o pergaminho de planta"
+   },
+   {
+    "key": "c",
+    "text": "O papiro vinha do miolo de uma planta egípcia e o pergaminho do couro de animais"
+   },
+   {
+    "key": "d",
+    "text": "Eram o mesmo material com nomes diferentes"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Na falta de papel, as cartas eram escritas nesses materiais."
+ },
+ {
+  "id": 99,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Quem foi o escriba que colaborou com Paulo na escrita de Romanos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Tíquico"
+   },
+   {
+    "key": "b",
+    "text": "Onésimo"
+   },
+   {
+    "key": "c",
+    "text": "Lucas"
+   },
+   {
+    "key": "d",
+    "text": "Tércio"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Tércio atuou como escriba (Rm 16.22). Escribas, ou amanuenses, eram profissionais que escreviam cartas."
+ },
+ {
+  "id": 100,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual versículo resume a vida de Paulo: \"Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Romanos 10.12"
+   },
+   {
+    "key": "b",
+    "text": "Atos 1.8"
+   },
+   {
+    "key": "c",
+    "text": "2 Timóteo 4.7"
+   },
+   {
+    "key": "d",
+    "text": "Gálatas 1.1"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Escritas pouco antes de sua morte, essas palavras a Timóteo mostram que Paulo viveu para Deus até o fim."
+ },
+ {
+  "id": 101,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Segundo o versículo-chave (At 1.8), até onde os discípulos seriam testemunhas de Jesus?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Somente em Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Em Jerusalém, na Judeia, em Samaria e até os lugares mais distantes da terra"
+   },
+   {
+    "key": "c",
+    "text": "Apenas entre os judeus"
+   },
+   {
+    "key": "d",
+    "text": "Somente em Roma"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A promessa era de poder para testemunhar em Jerusalém, Judeia, Samaria e até os confins da terra."
+ },
+ {
+  "id": 102,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Qual é a Leitura Bíblica da Lição 1?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 9.3-9,17"
+   },
+   {
+    "key": "b",
+    "text": "Gálatas 1.15-24"
+   },
+   {
+    "key": "c",
+    "text": "Atos 2.38,41-47"
+   },
+   {
+    "key": "d",
+    "text": "Atos 13.1-3"
+   }
+  ],
+  "answer": "c",
+  "explanation": "O texto central é Atos 2.38,41-47, que descreve a vida da igreja após o Pentecostes."
+ },
+ {
+  "id": 103,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Segundo o editorial, quem era Lucas, autor de Atos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um pescador da Galileia"
+   },
+   {
+    "key": "b",
+    "text": "Um médico, escritor e amigo de Paulo"
+   },
+   {
+    "key": "c",
+    "text": "Um sacerdote do Templo"
+   },
+   {
+    "key": "d",
+    "text": "Um soldado romano"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O editorial apresenta Lucas como médico, escritor e amigo de Paulo."
+ },
+ {
+  "id": 104,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "A lição compara o WhatsApp de hoje a qual meio de comunicação da época dos apóstolos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A carta, ou epístola"
+   },
+   {
+    "key": "b",
+    "text": "O sino da sinagoga"
+   },
+   {
+    "key": "c",
+    "text": "Os sinais de fumaça"
+   },
+   {
+    "key": "d",
+    "text": "O jornal"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Na época dos apóstolos, a carta (epístola) era a ferramenta comum de comunicação."
+ },
+ {
+  "id": 105,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Em que idioma era realizado o culto na sinagoga?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Grego"
+   },
+   {
+    "key": "b",
+    "text": "Latim"
+   },
+   {
+    "key": "c",
+    "text": "Aramaico"
+   },
+   {
+    "key": "d",
+    "text": "Hebraico"
+   }
+  ],
+  "answer": "d",
+  "explanation": "No dia a dia falava-se aramaico, mas o culto na sinagoga era em hebraico."
+ },
+ {
+  "id": 106,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Quais regiões o Império Romano abrangia no primeiro século?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Europa, Ásia Menor (atual Turquia) e Norte da África"
+   },
+   {
+    "key": "b",
+    "text": "Apenas a Itália"
+   },
+   {
+    "key": "c",
+    "text": "América e Europa"
+   },
+   {
+    "key": "d",
+    "text": "Somente Israel e Egito"
+   }
+  ],
+  "answer": "a",
+  "explanation": "A lição cita esses três territórios como parte do Império, a potência mundial da época."
+ },
+ {
+  "id": 107,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Que som encheu a casa onde os discípulos estavam no dia de Pentecostes?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Trovões"
+   },
+   {
+    "key": "b",
+    "text": "O som de trombetas"
+   },
+   {
+    "key": "c",
+    "text": "O som de um vento forte"
+   },
+   {
+    "key": "d",
+    "text": "Cânticos de anjos"
+   }
+  ],
+  "answer": "c",
+  "explanation": "De repente, o som de um vento forte encheu a casa e todos falaram em outras línguas (At 2.2-4)."
+ },
+ {
+  "id": 108,
+  "lesson": 1,
+  "lessonTitle": "A Igreja e a Época do Apóstolo Paulo",
+  "prompt": "Segundo a lição, o que acontece quando o Espírito Santo passa a viver em alguém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A pessoa fica rica"
+   },
+   {
+    "key": "b",
+    "text": "O amor se torna o guia do comportamento, e o egoísmo dá lugar à bondade"
+   },
+   {
+    "key": "c",
+    "text": "A pessoa deixa de ter problemas"
+   },
+   {
+    "key": "d",
+    "text": "A pessoa se afasta dos outros"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Há transformação nas atitudes: não há espaço para avareza nem desperdício (1 Jo 4.20,21)."
+ },
+ {
+  "id": 109,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Segundo o versículo-chave (Gl 1.1), por quem Paulo foi chamado para ser apóstolo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pelos apóstolos de Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Por Barnabé"
+   },
+   {
+    "key": "c",
+    "text": "Por Jesus Cristo e por Deus, o Pai"
+   },
+   {
+    "key": "d",
+    "text": "Pelo Sinédrio"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo afirma que não foi chamado por pessoas, mas por Jesus Cristo e por Deus Pai."
+ },
+ {
+  "id": 110,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Por volta de que ano Paulo provavelmente nasceu?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Ano 5"
+   },
+   {
+    "key": "b",
+    "text": "Ano 30"
+   },
+   {
+    "key": "c",
+    "text": "Ano 50"
+   },
+   {
+    "key": "d",
+    "text": "Ano 68"
+   }
+  ],
+  "answer": "a",
+  "explanation": "A lição diz que Paulo nasceu, provavelmente, por volta do ano 5, em Tarso."
+ },
+ {
+  "id": 111,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "O que era um fariseu?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um soldado romano"
+   },
+   {
+    "key": "b",
+    "text": "Um cobrador de impostos"
+   },
+   {
+    "key": "c",
+    "text": "Um judeu que obedecia meticulosamente à Lei e à Tradição"
+   },
+   {
+    "key": "d",
+    "text": "Um sacerdote pagão"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Paulo se tornou um fariseu dedicado (Fp 3.5)."
+ },
+ {
+  "id": 112,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "De qual tribo de Israel eram os pais de Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Judá"
+   },
+   {
+    "key": "b",
+    "text": "Levi"
+   },
+   {
+    "key": "c",
+    "text": "Dã"
+   },
+   {
+    "key": "d",
+    "text": "Benjamim"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Os pais de Paulo eram judeus da tribo de Benjamim (Fp 3.5)."
+ },
+ {
+  "id": 113,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Segundo a lição, quanto da população romana era formada por escravos ou servos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Cerca de 10%"
+   },
+   {
+    "key": "b",
+    "text": "Cerca de 80%"
+   },
+   {
+    "key": "c",
+    "text": "Cerca de 50%"
+   },
+   {
+    "key": "d",
+    "text": "Nenhum"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Estima-se que cerca de 80% da população era de escravos ou servos."
+ },
+ {
+  "id": 114,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Com que propósito Saulo viajava para Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Prender os seguidores do Caminho do Senhor"
+   },
+   {
+    "key": "b",
+    "text": "Estudar com Gamaliel"
+   },
+   {
+    "key": "c",
+    "text": "Vender barracas"
+   },
+   {
+    "key": "d",
+    "text": "Visitar a família"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Saulo levava autorização para prender os seguidores de Jesus (At 9.2). Damasco ficava a 280 km ao norte de Jerusalém."
+ },
+ {
+  "id": 115,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Por que os homens que acompanhavam Saulo o levaram até Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Porque ele estava ferido por uma espada"
+   },
+   {
+    "key": "b",
+    "text": "Porque estava doente de febre"
+   },
+   {
+    "key": "c",
+    "text": "Porque tinha sido preso"
+   },
+   {
+    "key": "d",
+    "text": "Porque não conseguia enxergar"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Após o encontro com Jesus, Saulo ficou cego e precisou ser guiado (At 9.7,8)."
+ },
+ {
+  "id": 116,
+  "lesson": 2,
+  "lessonTitle": "A Grande Mudança: de Perseguidor a Perseguido",
+  "prompt": "Para quem o Senhor escolheu Saulo anunciar o nome de Jesus (At 9.15)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Somente para os sacerdotes"
+   },
+   {
+    "key": "b",
+    "text": "Aos não judeus, aos reis e ao povo de Israel"
+   },
+   {
+    "key": "c",
+    "text": "Apenas aos romanos"
+   },
+   {
+    "key": "d",
+    "text": "Somente à sua família"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Deus revelou a Ananias que Saulo seria instrumento para anunciar Jesus a todos esses grupos."
+ },
+ {
+  "id": 117,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Qual é a Leitura Bíblica da Lição 3?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 2.38,41-47"
+   },
+   {
+    "key": "b",
+    "text": "Gálatas 1.15-24"
+   },
+   {
+    "key": "c",
+    "text": "Atos 15.7-12"
+   },
+   {
+    "key": "d",
+    "text": "Romanos 16.1-16"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Gálatas 1.15-24 é o texto em que o próprio Paulo relata seus primeiros anos após a conversão."
+ },
+ {
+  "id": 118,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Segundo o versículo-chave (At 11.25,26a), por quanto tempo Barnabé e Saulo ensinaram em Antioquia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Três anos"
+   },
+   {
+    "key": "b",
+    "text": "Um mês"
+   },
+   {
+    "key": "c",
+    "text": "Um ano"
+   },
+   {
+    "key": "d",
+    "text": "Dez anos"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Eles se reuniram durante um ano com a igreja e ensinaram muitas pessoas."
+ },
+ {
+  "id": 119,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Depois do batismo, o que Paulo anunciou nas sinagogas de Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Que Jesus era o Filho de Deus"
+   },
+   {
+    "key": "b",
+    "text": "Que a Lei devia ser abandonada"
+   },
+   {
+    "key": "c",
+    "text": "Que ele era o Messias"
+   },
+   {
+    "key": "d",
+    "text": "Que Roma cairia"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo pregou que Jesus era o Filho de Deus, e alguns judeus planejaram matá-lo (At 9.20-25)."
+ },
+ {
+  "id": 120,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Qual destas atividades NÃO está entre as que os especialistas sugerem que Paulo tenha feito em Damasco?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Aprender a fazer barracas"
+   },
+   {
+    "key": "b",
+    "text": "Estudar as Escrituras"
+   },
+   {
+    "key": "c",
+    "text": "Servir no exército romano"
+   },
+   {
+    "key": "d",
+    "text": "Iniciar o ministério entre os gentios"
+   }
+  ],
+  "answer": "c",
+  "explanation": "A lição cita barracas, ministério entre gentios, estudo das Escrituras e análise da Lei. Exército romano não aparece."
+ },
+ {
+  "id": 121,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Segundo 2 Co 5.17, citado na lição, o que acontece com quem está unido com Cristo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Continua igual"
+   },
+   {
+    "key": "b",
+    "text": "É uma nova pessoa: acabou-se o que era velho e chegou o que é novo"
+   },
+   {
+    "key": "c",
+    "text": "Recebe riquezas"
+   },
+   {
+    "key": "d",
+    "text": "Deixa de ter dificuldades"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Esse versículo explica a transformação vivida por Paulo."
+ },
+ {
+  "id": 122,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "O que significa \"blasfêmia\", segundo a lição?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Uma oração especial"
+   },
+   {
+    "key": "b",
+    "text": "Um tipo de sacrifício"
+   },
+   {
+    "key": "c",
+    "text": "Uma festa judaica"
+   },
+   {
+    "key": "d",
+    "text": "Palavra ofensiva ou insulto contra alguém"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Os opositores acusavam de blasfêmia quem pregava que Jesus era o Messias."
+ },
+ {
+  "id": 123,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Por que Barnabé foi buscar Paulo em Tarso?",
+  "options": [
+   {
+    "key": "a",
+    "text": "A igreja de Antioquia cresceu e precisava de liderança"
+   },
+   {
+    "key": "b",
+    "text": "Paulo estava doente"
+   },
+   {
+    "key": "c",
+    "text": "Para levá-lo a Roma"
+   },
+   {
+    "key": "d",
+    "text": "Para prendê-lo"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Antioquia da Síria era uma grande cidade com muitos seguidores de Jesus e precisava de líderes (At 11.25,26)."
+ },
+ {
+  "id": 124,
+  "lesson": 3,
+  "lessonTitle": "Os Primeiros Passos de Paulo",
+  "prompt": "Segundo a lição, como Paulo provavelmente se preparou durante os \"anos de silêncio\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Descansando e viajando a passeio"
+   },
+   {
+    "key": "b",
+    "text": "Estudando as Escrituras, orando e jejuando"
+   },
+   {
+    "key": "c",
+    "text": "Trabalhando para o governo"
+   },
+   {
+    "key": "d",
+    "text": "Escrevendo o livro de Atos"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Quando Barnabé o chamou, Paulo estava pronto para ser líder, o que indica que vinha se capacitando."
+ },
+ {
+  "id": 125,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Qual é a Leitura Bíblica da Lição 4?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 13.1-3; 14.21-28"
+   },
+   {
+    "key": "b",
+    "text": "Atos 16.19-34"
+   },
+   {
+    "key": "c",
+    "text": "Atos 23.25-35"
+   },
+   {
+    "key": "d",
+    "text": "Filipenses 4.10-20"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O texto mostra o envio (At 13) e o retorno com relatório à igreja (At 14)."
+ },
+ {
+  "id": 126,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Algumas vezes na Bíblia, a palavra \"grego\" significa:",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filósofo"
+   },
+   {
+    "key": "b",
+    "text": "Soldado"
+   },
+   {
+    "key": "c",
+    "text": "Não judeu"
+   },
+   {
+    "key": "d",
+    "text": "Comerciante"
+   }
+  ],
+  "answer": "c",
+  "explanation": "A lição explica que \"grego\" pode se referir a qualquer pessoa que não é judia."
+ },
+ {
+  "id": 127,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Quanto tempo durou, aproximadamente, a primeira viagem missionária?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Seis meses"
+   },
+   {
+    "key": "b",
+    "text": "Dois anos"
+   },
+   {
+    "key": "c",
+    "text": "Cinco anos"
+   },
+   {
+    "key": "d",
+    "text": "Duas semanas"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A primeira viagem durou aproximadamente dois anos."
+ },
+ {
+  "id": 128,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Qual personagem bíblico é citado como exemplo de quem viajava de carruagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O eunuco etíope"
+   },
+   {
+    "key": "b",
+    "text": "Barnabé"
+   },
+   {
+    "key": "c",
+    "text": "Pedro"
+   },
+   {
+    "key": "d",
+    "text": "Cornélio"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O eunuco etíope viajava de carruagem (At 8.26-31)."
+ },
+ {
+  "id": 129,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "O que Hebreus 13.2 ensina sobre hospitalidade?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Que só se deve receber parentes"
+   },
+   {
+    "key": "b",
+    "text": "Que hospedar é perigoso"
+   },
+   {
+    "key": "c",
+    "text": "Que é obrigação apenas dos pastores"
+   },
+   {
+    "key": "d",
+    "text": "Que alguns que foram hospitaleiros receberam anjos sem saber"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Os cristãos eram incentivados a receber bem os viajantes em suas casas."
+ },
+ {
+  "id": 130,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "O que era a sinagoga?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Uma hospedaria romana"
+   },
+   {
+    "key": "b",
+    "text": "O lugar onde os judeus se reuniam aos sábados para ouvir as Escrituras, orar e cantar"
+   },
+   {
+    "key": "c",
+    "text": "Um mercado"
+   },
+   {
+    "key": "d",
+    "text": "Um tribunal"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Paulo tinha a estratégia de pregar primeiro na sinagoga de cada cidade."
+ },
+ {
+  "id": 131,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "O que Paulo e Barnabé fizeram ao revisitar as igrejas no fim da viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Fecharam as igrejas"
+   },
+   {
+    "key": "b",
+    "text": "Cobraram impostos"
+   },
+   {
+    "key": "c",
+    "text": "Escolheram a liderança local, oraram e jejuaram com ela"
+   },
+   {
+    "key": "d",
+    "text": "Levaram todos para Antioquia"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Eles seguiram o modelo de Antioquia para que os líderes cuidassem da igreja (At 14.23)."
+ },
+ {
+  "id": 132,
+  "lesson": 4,
+  "lessonTitle": "A Primeira Viagem Missionária",
+  "prompt": "Listra e Derbe eram cidades de qual região?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Licaônia"
+   },
+   {
+    "key": "b",
+    "text": "Macedônia"
+   },
+   {
+    "key": "c",
+    "text": "Acaia"
+   },
+   {
+    "key": "d",
+    "text": "Galileia"
+   }
+  ],
+  "answer": "a",
+  "explanation": "De Icônio foram para Listra e Derbe, cidades da Licaônia (At 14.6)."
+ },
+ {
+  "id": 133,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "O versículo-chave (At 14.15b) chama as pessoas a se converterem a quem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Aos apóstolos"
+   },
+   {
+    "key": "b",
+    "text": "Ao imperador"
+   },
+   {
+    "key": "c",
+    "text": "Aos deuses gregos"
+   },
+   {
+    "key": "d",
+    "text": "Ao Deus vivo, que fez o céu, a terra, o mar e tudo o que existe neles"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Paulo e Barnabé pediam que abandonassem coisas inúteis e se voltassem ao Criador."
+ },
+ {
+  "id": 134,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Em qual cidade de Chipre o barco dos missionários chegou primeiro?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pafos"
+   },
+   {
+    "key": "b",
+    "text": "Salamina"
+   },
+   {
+    "key": "c",
+    "text": "Perge"
+   },
+   {
+    "key": "d",
+    "text": "Icônio"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Chegaram a Salamina e pregaram nas sinagogas (At 13.5), atravessando a ilha até Pafos."
+ },
+ {
+  "id": 135,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "De que Paulo acusou Elimas ao repreendê-lo (At 13.10)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "De torcer o verdadeiro ensinamento do Senhor"
+   },
+   {
+    "key": "b",
+    "text": "De roubar o governador"
+   },
+   {
+    "key": "c",
+    "text": "De não pagar impostos"
+   },
+   {
+    "key": "d",
+    "text": "De ser romano"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo o chamou de \"inimigo de tudo o que é bom\" por impedir o governador de entender a Palavra."
+ },
+ {
+  "id": 136,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Na pregação em Antioquia da Pisídia, Paulo explicou que Jesus era descendente de qual rei?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Salomão"
+   },
+   {
+    "key": "b",
+    "text": "Saul"
+   },
+   {
+    "key": "c",
+    "text": "Davi"
+   },
+   {
+    "key": "d",
+    "text": "Herodes"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Conforme as Escrituras, Jesus era descendente de Davi (At 13.22,23)."
+ },
+ {
+  "id": 137,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Por que Paulo e Barnabé foram expulsos de Antioquia da Pisídia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Porque não pagaram a hospedaria"
+   },
+   {
+    "key": "b",
+    "text": "Porque alguns judeus não aceitaram que os não judeus também ouvissem o Evangelho"
+   },
+   {
+    "key": "c",
+    "text": "Por ordem do imperador"
+   },
+   {
+    "key": "d",
+    "text": "Porque pregaram contra Roma"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O conflito culminou na expulsão dos missionários (At 13.45,50)."
+ },
+ {
+  "id": 138,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Como ficaram os que se converteram em Antioquia da Pisídia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Tristes e desanimados"
+   },
+   {
+    "key": "b",
+    "text": "Com medo"
+   },
+   {
+    "key": "c",
+    "text": "Divididos"
+   },
+   {
+    "key": "d",
+    "text": "Muito alegres e cheios do Espírito Santo"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Apesar da perseguição, os convertidos continuaram cheios de alegria (At 13.52)."
+ },
+ {
+  "id": 139,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Qual foi o \"ponto de contato\" usado para explicar o Evangelho aos licaônicos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O Deus Criador de Gênesis, que dá alegria aos que o servem"
+   },
+   {
+    "key": "b",
+    "text": "A história do rei Davi"
+   },
+   {
+    "key": "c",
+    "text": "A Lei de Moisés"
+   },
+   {
+    "key": "d",
+    "text": "A cidadania romana"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Como não conheciam a história de Israel, os apóstolos começaram falando do Deus Criador (At 14.15-17)."
+ },
+ {
+  "id": 140,
+  "lesson": 5,
+  "lessonTitle": "O Primeiro Diário de Viagem",
+  "prompt": "Quem apedrejou Paulo em Listra?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Soldados romanos"
+   },
+   {
+    "key": "b",
+    "text": "Os filósofos de Atenas"
+   },
+   {
+    "key": "c",
+    "text": "Judeus de Antioquia da Pisídia e de Icônio, junto com uma multidão"
+   },
+   {
+    "key": "d",
+    "text": "Os sacerdotes de Júpiter"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Esses opositores seguiram Paulo até Listra e causaram o tumulto (At 14.19)."
+ },
+ {
+  "id": 141,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "O que diz o versículo-chave (Rm 10.12)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Que só os judeus são o povo de Deus"
+   },
+   {
+    "key": "b",
+    "text": "Que não existe diferença entre judeus e não judeus, pois Deus é Senhor de todos"
+   },
+   {
+    "key": "c",
+    "text": "Que os gentios devem ser circuncidados"
+   },
+   {
+    "key": "d",
+    "text": "Que a Lei salva"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Deus abençoa generosamente todos os que pedem a sua ajuda."
+ },
+ {
+  "id": 142,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Quem se reuniu em Jerusalém para o Concílio?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Apenas Paulo e Pedro"
+   },
+   {
+    "key": "b",
+    "text": "Somente os fariseus"
+   },
+   {
+    "key": "c",
+    "text": "Os soldados romanos"
+   },
+   {
+    "key": "d",
+    "text": "A igreja, os apóstolos, os presbíteros e a equipe de Antioquia"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Todos se reuniram para refletir sobre a questão (At 15.2)."
+ },
+ {
+  "id": 143,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Quem defendia que os gentios fossem circuncidados?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Alguns irmãos do partido dos fariseus que criam em Jesus"
+   },
+   {
+    "key": "b",
+    "text": "Paulo e Barnabé"
+   },
+   {
+    "key": "c",
+    "text": "Pedro e Tiago"
+   },
+   {
+    "key": "d",
+    "text": "Os romanos"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Esses irmãos queriam que os gentios obedecessem à Lei de Moisés (At 15.5)."
+ },
+ {
+  "id": 144,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "O que Pedro e Tiago disseram sobre as regras para os novos cristãos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Deviam ser ainda mais rígidas"
+   },
+   {
+    "key": "b",
+    "text": "Deviam ser iguais às dos fariseus"
+   },
+   {
+    "key": "c",
+    "text": "Não era correto impor regras difíceis"
+   },
+   {
+    "key": "d",
+    "text": "Cada igreja deveria criar as suas"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Eles defenderam não sobrecarregar os gentios (At 15.10,11,19)."
+ },
+ {
+  "id": 145,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Por qual outro nome é conhecido o Concílio de Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Concílio de Niceia"
+   },
+   {
+    "key": "b",
+    "text": "Concílio Apostólico"
+   },
+   {
+    "key": "c",
+    "text": "Sinédrio Cristão"
+   },
+   {
+    "key": "d",
+    "text": "Assembleia de Antioquia"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Foi o primeiro encontro oficial da Igreja para debater um assunto doutrinário."
+ },
+ {
+  "id": 146,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Como a igreja de Antioquia recebeu a carta do Concílio?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Com tristeza"
+   },
+   {
+    "key": "b",
+    "text": "Com revolta"
+   },
+   {
+    "key": "c",
+    "text": "Com indiferença"
+   },
+   {
+    "key": "d",
+    "text": "Com alegria"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Como todo o processo foi conduzido pelo Espírito Santo, a decisão foi recebida com alegria (At 15.31)."
+ },
+ {
+  "id": 147,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Segundo Gl 3.28 e Cl 3.11, o que judeus e não judeus formam em Jesus?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um só povo, a Igreja"
+   },
+   {
+    "key": "b",
+    "text": "Dois povos separados"
+   },
+   {
+    "key": "c",
+    "text": "Uma nação política"
+   },
+   {
+    "key": "d",
+    "text": "Grupos rivais"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Em Cristo, todos os que creem fazem parte de um só povo de Deus."
+ },
+ {
+  "id": 148,
+  "lesson": 6,
+  "lessonTitle": "O Concílio de Jerusalém",
+  "prompt": "Segundo o \"Vamos Descobrir\" da lição, o que Jesus fez em relação à Lei?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Aboliu os Dez Mandamentos"
+   },
+   {
+    "key": "b",
+    "text": "Ignorou a Lei"
+   },
+   {
+    "key": "c",
+    "text": "Cumpriu toda a Lei ao morrer na cruz, dando início a uma Nova Aliança"
+   },
+   {
+    "key": "d",
+    "text": "Criou uma Lei mais difícil"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Com a Nova Aliança, a salvação passou a vir pela fé em Jesus."
+ },
+ {
+  "id": 149,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "O versículo-chave (At 15.36b) mostra qual era o objetivo inicial da segunda viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Voltar e visitar os irmãos nas cidades onde já haviam pregado"
+   },
+   {
+    "key": "b",
+    "text": "Ir diretamente para Roma"
+   },
+   {
+    "key": "c",
+    "text": "Fundar uma escola"
+   },
+   {
+    "key": "d",
+    "text": "Fugir da perseguição"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo queria ver se os irmãos estavam bem."
+ },
+ {
+  "id": 150,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Por quais regiões da Ásia Menor Paulo e Silas passaram?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Egito e Líbia"
+   },
+   {
+    "key": "b",
+    "text": "Cilícia, Galácia, Frígia e Mísia"
+   },
+   {
+    "key": "c",
+    "text": "Judeia e Samaria"
+   },
+   {
+    "key": "d",
+    "text": "Itália e Espanha"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Eles cruzaram a Ásia Menor por essas regiões antes de ir para a Europa (At 15.40-16.8)."
+ },
+ {
+  "id": 151,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Qual destas cidades NÃO fica na Macedônia, segundo a lição?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filipos"
+   },
+   {
+    "key": "b",
+    "text": "Tessalônica"
+   },
+   {
+    "key": "c",
+    "text": "Bereia"
+   },
+   {
+    "key": "d",
+    "text": "Éfeso"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Filipos, Apolônia, Anfípolis, Tessalônica e Bereia são macedônias. Éfeso fica na Ásia."
+ },
+ {
+  "id": 152,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Onde Paulo pregou no sábado em Filipos, já que não havia sinagoga?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Na beira do rio, num lugar de oração"
+   },
+   {
+    "key": "b",
+    "text": "No teatro"
+   },
+   {
+    "key": "c",
+    "text": "No palácio do governador"
+   },
+   {
+    "key": "d",
+    "text": "No mercado"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo mudou de estratégia e ali conheceu Lídia e outras mulheres (At 16.13-15)."
+ },
+ {
+  "id": 153,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Onde Silas e Timóteo permaneceram quando Paulo foi sozinho para a Acaia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filipos"
+   },
+   {
+    "key": "b",
+    "text": "Atenas"
+   },
+   {
+    "key": "c",
+    "text": "Bereia"
+   },
+   {
+    "key": "d",
+    "text": "Corinto"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Eles ficaram em Bereia (At 17.14) e depois encontraram Paulo em Corinto."
+ },
+ {
+  "id": 154,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Como Paulo pregou aos filósofos de Atenas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Recitando a Lei em hebraico"
+   },
+   {
+    "key": "b",
+    "text": "Adaptando a mensagem a uma linguagem que eles entenderiam"
+   },
+   {
+    "key": "c",
+    "text": "Recusando-se a falar com eles"
+   },
+   {
+    "key": "d",
+    "text": "Apenas fazendo milagres"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Dirigido pelo Espírito, Paulo usou o altar ao \"Deus Desconhecido\" como ponte (At 17.22-34)."
+ },
+ {
+  "id": 155,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Qual casal Paulo deixou em Éfeso ao voltar da segunda viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Priscila e Áquila"
+   },
+   {
+    "key": "b",
+    "text": "Dionísio e Dâmaris"
+   },
+   {
+    "key": "c",
+    "text": "Ananias e Safira"
+   },
+   {
+    "key": "d",
+    "text": "Agripa e Berenice"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O casal ficou em Éfeso, e Paulo prometeu voltar (At 18.19-21)."
+ },
+ {
+  "id": 156,
+  "lesson": 7,
+  "lessonTitle": "A Segunda Viagem Missionária",
+  "prompt": "Segundo o \"Pense Nisso\", como podemos conhecer a vontade de Deus?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Por sorteio"
+   },
+   {
+    "key": "b",
+    "text": "Pela opinião da maioria"
+   },
+   {
+    "key": "c",
+    "text": "Por sinais no céu"
+   },
+   {
+    "key": "d",
+    "text": "Pela oração e pela leitura bíblica"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A lição aconselha falar com Deus e fazer perguntas a Ele, que responderá no tempo certo."
+ },
+ {
+  "id": 157,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Qual é a Leitura Bíblica da Lição 8?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 17.1-15"
+   },
+   {
+    "key": "b",
+    "text": "Atos 16.19-34"
+   },
+   {
+    "key": "c",
+    "text": "Atos 18.1-11"
+   },
+   {
+    "key": "d",
+    "text": "Atos 20.17-24"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O texto narra a prisão de Paulo e Silas em Filipos e a conversão do carcereiro."
+ },
+ {
+  "id": 158,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que a jovem vidente gritava enquanto seguia Paulo e Silas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "\"Estes homens são servos do Deus Altíssimo e anunciam como vocês podem ser salvos\""
+   },
+   {
+    "key": "b",
+    "text": "\"Prendam esses homens!\""
+   },
+   {
+    "key": "c",
+    "text": "\"Estes são falsos profetas\""
+   },
+   {
+    "key": "d",
+    "text": "\"Eles são deuses\""
+   }
+  ],
+  "answer": "a",
+  "explanation": "Embora dissesse a verdade, estava dominada por um espírito mau e queria provocar confusão (At 16.17)."
+ },
+ {
+  "id": 159,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "De que Paulo e Silas foram acusados em Filipos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "De roubo"
+   },
+   {
+    "key": "b",
+    "text": "De sonegar impostos"
+   },
+   {
+    "key": "c",
+    "text": "De provocar desordem pública"
+   },
+   {
+    "key": "d",
+    "text": "De assassinato"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Os donos da escrava os acusaram, e eles foram chicoteados e presos (At 16.19-23)."
+ },
+ {
+  "id": 160,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Por que o carcereiro ficou desesperado após o terremoto?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Porque a prisão desabou sobre ele"
+   },
+   {
+    "key": "b",
+    "text": "Porque achou que os presos tinham fugido e ele seria punido"
+   },
+   {
+    "key": "c",
+    "text": "Porque perdeu as chaves"
+   },
+   {
+    "key": "d",
+    "text": "Porque Paulo o ameaçou"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Para sua surpresa, ninguém fugiu, e Paulo o acalmou (At 16.27,28)."
+ },
+ {
+  "id": 161,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que Paulo explicava nas sinagogas de Tessalônica?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Que o Messias precisaria sofrer, morrer e ressuscitar, e que esse Messias era Jesus"
+   },
+   {
+    "key": "b",
+    "text": "Que o Messias ainda não viria"
+   },
+   {
+    "key": "c",
+    "text": "Que a Lei era suficiente"
+   },
+   {
+    "key": "d",
+    "text": "Que Roma era o Reino de Deus"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo pregou por alguns sábados seguidos, mostrando o cumprimento das profecias (At 17.2,3)."
+ },
+ {
+  "id": 162,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Quem se juntou a Paulo e Silas em Tessalônica?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Apenas soldados"
+   },
+   {
+    "key": "b",
+    "text": "Somente sacerdotes"
+   },
+   {
+    "key": "c",
+    "text": "Algumas pessoas, muitos não judeus convertidos ao Judaísmo e senhoras da alta sociedade"
+   },
+   {
+    "key": "d",
+    "text": "Ninguém"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Um grande número de pessoas creu (At 17.4)."
+ },
+ {
+  "id": 163,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "O que os judeus invejosos fizeram em Tessalônica?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Pagaram Paulo para ir embora"
+   },
+   {
+    "key": "b",
+    "text": "Denunciaram Paulo ao imperador"
+   },
+   {
+    "key": "c",
+    "text": "Queimaram as Escrituras"
+   },
+   {
+    "key": "d",
+    "text": "Mobilizaram \"homens malandros e desordeiros\" contra Paulo e Silas"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Esses homens invadiram a casa de Jasão (At 17.5)."
+ },
+ {
+  "id": 164,
+  "lesson": 8,
+  "lessonTitle": "O Segundo Diário de Viagem",
+  "prompt": "Para onde os irmãos de Bereia levaram Paulo para protegê-lo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Corinto"
+   },
+   {
+    "key": "b",
+    "text": "Atenas"
+   },
+   {
+    "key": "c",
+    "text": "Filipos"
+   },
+   {
+    "key": "d",
+    "text": "Roma"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Quando os perseguidores chegaram a Bereia, os irmãos levaram Paulo até Atenas (At 17.13-15)."
+ },
+ {
+  "id": 165,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Segundo o versículo-chave (At 19.10), quem ouviu a mensagem do Senhor durante os dois anos de Paulo na região?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Apenas os judeus de Éfeso"
+   },
+   {
+    "key": "b",
+    "text": "Só os gentios"
+   },
+   {
+    "key": "c",
+    "text": "Todos os moradores da província da Ásia, judeus e não judeus"
+   },
+   {
+    "key": "d",
+    "text": "Somente os líderes"
+   }
+  ],
+  "answer": "c",
+  "explanation": "O Evangelho alcançou toda a província da Ásia."
+ },
+ {
+  "id": 166,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Qual é a Leitura Bíblica da Lição 9?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 20.17-24"
+   },
+   {
+    "key": "b",
+    "text": "Atos 15.36-41"
+   },
+   {
+    "key": "c",
+    "text": "Atos 19.1-11"
+   },
+   {
+    "key": "d",
+    "text": "Romanos 16.1-16"
+   }
+  ],
+  "answer": "a",
+  "explanation": "O texto registra o discurso de Paulo aos presbíteros de Éfeso em Mileto."
+ },
+ {
+  "id": 167,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Por quais regiões Paulo passou até chegar a Éfeso?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Macedônia e Acaia"
+   },
+   {
+    "key": "b",
+    "text": "Judeia e Samaria"
+   },
+   {
+    "key": "c",
+    "text": "Chipre e Creta"
+   },
+   {
+    "key": "d",
+    "text": "Pisídia, Galácia e Frígia"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Ele visitou as igrejas fundadas antes, fortalecendo os irmãos (At 18.23; 19.1)."
+ },
+ {
+  "id": 168,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Onde Paulo passou a festa da Páscoa nessa viagem?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Filipos"
+   },
+   {
+    "key": "b",
+    "text": "Jerusalém"
+   },
+   {
+    "key": "c",
+    "text": "Éfeso"
+   },
+   {
+    "key": "d",
+    "text": "Antioquia"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Ao voltar pela Macedônia, passou a Páscoa em Filipos e navegou para Trôade (At 20.6)."
+ },
+ {
+  "id": 169,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Quem Paulo esperava encontrar em Trôade para ter notícias de Corinto?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Timóteo"
+   },
+   {
+    "key": "b",
+    "text": "Silas"
+   },
+   {
+    "key": "c",
+    "text": "Tito"
+   },
+   {
+    "key": "d",
+    "text": "Apolo"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Não encontrou Tito ali (2 Co 2.13), só depois, e então escreveu outra carta aos coríntios (2 Co 7.5-7)."
+ },
+ {
+  "id": 170,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Em que cidade Paulo desembarcou antes de passar por Ptolemaida e Cesareia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Rodes"
+   },
+   {
+    "key": "b",
+    "text": "Tiro"
+   },
+   {
+    "key": "c",
+    "text": "Sidom"
+   },
+   {
+    "key": "d",
+    "text": "Mileto"
+   }
+  ],
+  "answer": "b",
+  "explanation": "De Pátara, Paulo desembarcou em Tiro (At 21.1-8)."
+ },
+ {
+  "id": 171,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Do que os irmãos de Tiro e Cesareia alertavam Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "De que haveria uma tempestade"
+   },
+   {
+    "key": "b",
+    "text": "De que Timóteo estava doente"
+   },
+   {
+    "key": "c",
+    "text": "De que a oferta seria roubada"
+   },
+   {
+    "key": "d",
+    "text": "De que ele seria preso se fosse a Jerusalém"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Mesmo assim, Paulo estava decidido a ir (At 21.4,11-14)."
+ },
+ {
+  "id": 172,
+  "lesson": 9,
+  "lessonTitle": "A Terceira Viagem Missionária",
+  "prompt": "Segundo o \"Pense Nisso\", como devemos apoiar os missionários hoje?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Com recursos e orações"
+   },
+   {
+    "key": "b",
+    "text": "Apenas com críticas"
+   },
+   {
+    "key": "c",
+    "text": "Ignorando seu trabalho"
+   },
+   {
+    "key": "d",
+    "text": "Só com elogios nas redes sociais"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Os missionários enfrentam muitos desafios e precisam do apoio da igreja."
+ },
+ {
+  "id": 173,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "O que diz o versículo-chave (At 20.21)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Que judeus e não judeus deviam se arrepender, voltar para Deus e crer no Senhor Jesus"
+   },
+   {
+    "key": "b",
+    "text": "Que só os gentios precisavam de arrependimento"
+   },
+   {
+    "key": "c",
+    "text": "Que a salvação vem pela Lei"
+   },
+   {
+    "key": "d",
+    "text": "Que Paulo não pregava aos judeus"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Paulo pregou com firmeza a ambos os grupos a mesma mensagem."
+ },
+ {
+  "id": 174,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Qual é a Leitura Bíblica da Lição 10?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 20.17-24"
+   },
+   {
+    "key": "b",
+    "text": "Atos 21.27-36"
+   },
+   {
+    "key": "c",
+    "text": "Atos 19.1-11"
+   },
+   {
+    "key": "d",
+    "text": "Atos 18.24-28"
+   }
+  ],
+  "answer": "c",
+  "explanation": "O texto mostra o Batismo no Espírito em Éfeso e o início do ministério de Paulo na cidade."
+ },
+ {
+  "id": 175,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Por qual outro nome a \"deusa\" Diana também é conhecida?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Vênus"
+   },
+   {
+    "key": "b",
+    "text": "Ártemis"
+   },
+   {
+    "key": "c",
+    "text": "Minerva"
+   },
+   {
+    "key": "d",
+    "text": "Juno"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Seu grande templo em Éfeso atraía milhares de pessoas e movimentava a economia local."
+ },
+ {
+  "id": 176,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Quais companheiros de Paulo foram arrastados para o teatro durante o tumulto?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Timóteo e Erasto"
+   },
+   {
+    "key": "b",
+    "text": "Priscila e Áquila"
+   },
+   {
+    "key": "c",
+    "text": "Silas e Lucas"
+   },
+   {
+    "key": "d",
+    "text": "Gaio e Aristarco"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A multidão revoltada os levou ao teatro (At 19.29)."
+ },
+ {
+  "id": 177,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "Quem acalmou a multidão em Éfeso?",
+  "options": [
+   {
+    "key": "a",
+    "text": "O secretário da prefeitura"
+   },
+   {
+    "key": "b",
+    "text": "O próprio Paulo"
+   },
+   {
+    "key": "c",
+    "text": "O imperador"
+   },
+   {
+    "key": "d",
+    "text": "Demétrio"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Ele orientou que o assunto fosse tratado no tribunal ou em reuniões formais (At 19.35-41)."
+ },
+ {
+  "id": 178,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "De que os judeus da Ásia acusaram Paulo no Templo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "De roubar ofertas"
+   },
+   {
+    "key": "b",
+    "text": "De não saber hebraico"
+   },
+   {
+    "key": "c",
+    "text": "De ensinar contra o povo, a Lei e o Templo, e de profanar o lugar levando gentios"
+   },
+   {
+    "key": "d",
+    "text": "De ser cidadão romano"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Foi uma acusação falsa, que gerou um alvoroço (At 21.27,28)."
+ },
+ {
+  "id": 179,
+  "lesson": 10,
+  "lessonTitle": "O Terceiro Diário de Viagem",
+  "prompt": "O que fez os agitadores pararem de bater em Paulo?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Um terremoto"
+   },
+   {
+    "key": "b",
+    "text": "A chegada do comandante romano com suas tropas"
+   },
+   {
+    "key": "c",
+    "text": "Uma pregação de Pedro"
+   },
+   {
+    "key": "d",
+    "text": "A intervenção dos fariseus"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A confusão cessou e Paulo foi levado preso (At 21.30-33)."
+ },
+ {
+  "id": 180,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Segundo o versículo-chave (At 26.6), por que Paulo estava sendo julgado?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Por ter roubado"
+   },
+   {
+    "key": "b",
+    "text": "Por ter matado alguém"
+   },
+   {
+    "key": "c",
+    "text": "Por ter fugido de Roma"
+   },
+   {
+    "key": "d",
+    "text": "Por ter esperança na promessa que Deus fez aos antepassados"
+   }
+  ],
+  "answer": "d",
+  "explanation": "Paulo mostrava que sua fé estava ligada às promessas de Deus a Israel."
+ },
+ {
+  "id": 181,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Quando a multidão voltou a se enfurecer durante o discurso de Paulo em Jerusalém?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Quando ele contou sobre seu chamado para pregar aos não judeus"
+   },
+   {
+    "key": "b",
+    "text": "Quando falou de Gamaliel"
+   },
+   {
+    "key": "c",
+    "text": "Quando falou em aramaico"
+   },
+   {
+    "key": "d",
+    "text": "Quando citou Moisés"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Tudo ia bem até ele falar do chamado aos gentios (At 22.21,22)."
+ },
+ {
+  "id": 182,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "No Sinédrio, o julgamento de Paulo virou um debate entre quais grupos?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Romanos e gregos"
+   },
+   {
+    "key": "b",
+    "text": "Fariseus e saduceus"
+   },
+   {
+    "key": "c",
+    "text": "Sacerdotes e levitas"
+   },
+   {
+    "key": "d",
+    "text": "Apóstolos e presbíteros"
+   }
+  ],
+  "answer": "b",
+  "explanation": "A discussão escalou para outra confusão, e o comandante interveio (At 23.6-10)."
+ },
+ {
+  "id": 183,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Por que Paulo foi transferido para Cesareia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para ser libertado"
+   },
+   {
+    "key": "b",
+    "text": "Para visitar a igreja"
+   },
+   {
+    "key": "c",
+    "text": "Porque alguns judeus planejaram uma emboscada para matá-lo"
+   },
+   {
+    "key": "d",
+    "text": "Porque ia pegar um navio para Roma"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Por segurança, Paulo foi levado a Cesareia, a capital romana da Judeia (At 23.12-24)."
+ },
+ {
+  "id": 184,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Qual destas NÃO foi uma acusação contra Paulo diante de Félix?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Ser provocador de desordens"
+   },
+   {
+    "key": "b",
+    "text": "Ser líder do partido dos nazarenos"
+   },
+   {
+    "key": "c",
+    "text": "Ter tentado profanar o Templo"
+   },
+   {
+    "key": "d",
+    "text": "Não pagar impostos a César"
+   }
+  ],
+  "answer": "d",
+  "explanation": "As três acusações foram desordem, liderança dos nazarenos e profanação do Templo (At 24.5,6)."
+ },
+ {
+  "id": 185,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Diante de qual casal Paulo fez um discurso de defesa em Cesareia?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Priscila e Áquila"
+   },
+   {
+    "key": "b",
+    "text": "Rei Agripa e Berenice"
+   },
+   {
+    "key": "c",
+    "text": "Félix e Drusila"
+   },
+   {
+    "key": "d",
+    "text": "Sérgio Paulo e sua esposa"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O casal visitava Festo, e Paulo contou seu testemunho (At 25.23; 26.1)."
+ },
+ {
+  "id": 186,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Quantas pessoas, além de Paulo, estavam no navio e foram preservadas?",
+  "options": [
+   {
+    "key": "a",
+    "text": "12"
+   },
+   {
+    "key": "b",
+    "text": "70"
+   },
+   {
+    "key": "c",
+    "text": "275"
+   },
+   {
+    "key": "d",
+    "text": "1.000"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Deus prometeu preservar todos, e mesmo com o naufrágio ninguém morreu (At 27.22-25; 28.1)."
+ },
+ {
+  "id": 187,
+  "lesson": 11,
+  "lessonTitle": "A Prisão e o Julgamento de Paulo",
+  "prompt": "Pela lei romana, para que servia a prisão?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Para punir o criminoso por muitos anos"
+   },
+   {
+    "key": "b",
+    "text": "Para deter o acusado até o interrogatório ou julgamento"
+   },
+   {
+    "key": "c",
+    "text": "Para trabalhos forçados"
+   },
+   {
+    "key": "d",
+    "text": "Para cobrar multas"
+   }
+  ],
+  "answer": "b",
+  "explanation": "As punições eram execução, exílio, trabalho nas minas ou multas. A prisão era o lugar de espera."
+ },
+ {
+  "id": 188,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "O que diz o versículo-chave (Pv 17.17)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "\"O amigo ama sempre e na desgraça ele se torna um irmão\""
+   },
+   {
+    "key": "b",
+    "text": "\"Não confie em ninguém\""
+   },
+   {
+    "key": "c",
+    "text": "\"Os amigos vêm e vão\""
+   },
+   {
+    "key": "d",
+    "text": "\"Amigo é quem concorda com tudo\""
+   }
+  ],
+  "answer": "a",
+  "explanation": "O versículo resume o tema da lição: amizades fiéis no ministério de Paulo."
+ },
+ {
+  "id": 189,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual é a Leitura Bíblica da Lição 12?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Atos 18.1-11"
+   },
+   {
+    "key": "b",
+    "text": "Filipenses 4.10-20"
+   },
+   {
+    "key": "c",
+    "text": "Romanos 16.1-16"
+   },
+   {
+    "key": "d",
+    "text": "Filemom 1-16"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Nesse texto Paulo saúda vários amigos e cooperadores."
+ },
+ {
+  "id": 190,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual cooperador Paulo inicialmente rejeitou e depois reconheceu o valor (2 Tm 4.11)?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Silas"
+   },
+   {
+    "key": "b",
+    "text": "João Marcos"
+   },
+   {
+    "key": "c",
+    "text": "Tito"
+   },
+   {
+    "key": "d",
+    "text": "Lucas"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Barnabé acreditou nele, e Marcos se tornou autor do segundo livro do Novo Testamento."
+ },
+ {
+  "id": 191,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Como Tíquico é descrito em Ef 6.21?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Como um líder rebelde"
+   },
+   {
+    "key": "b",
+    "text": "Como escriba do Templo"
+   },
+   {
+    "key": "c",
+    "text": "Como médico"
+   },
+   {
+    "key": "d",
+    "text": "Como \"querido irmão e fiel servo no trabalho do Senhor\""
+   }
+  ],
+  "answer": "d",
+  "explanation": "Ele viajava com Paulo e levava suas cartas e mensagens."
+ },
+ {
+  "id": 192,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Onde Paulo conheceu Dâmaris?",
+  "options": [
+   {
+    "key": "a",
+    "text": "No Areópago de Atenas"
+   },
+   {
+    "key": "b",
+    "text": "Na beira do rio em Filipos"
+   },
+   {
+    "key": "c",
+    "text": "Na prisão de Roma"
+   },
+   {
+    "key": "d",
+    "text": "Em Corinto"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Dâmaris ouviu o discurso de Paulo e creu, o que mostra que fazia parte da elite intelectual (At 17.34)."
+ },
+ {
+  "id": 193,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Qual destas mulheres NÃO está entre as citadas apenas pelo nome?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Cláudia"
+   },
+   {
+    "key": "b",
+    "text": "Ninfa"
+   },
+   {
+    "key": "c",
+    "text": "Lídia"
+   },
+   {
+    "key": "d",
+    "text": "Trifena"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Lídia é destacada com detalhes. Cláudia, Ninfa, Júnia, Trifena, Trifosa e Pérside aparecem só pelo nome."
+ },
+ {
+  "id": 194,
+  "lesson": 12,
+  "lessonTitle": "Os Amigos e Cooperadores de Paulo",
+  "prompt": "Paulo escolheu Tito para organizar a igreja de qual lugar?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Roma"
+   },
+   {
+    "key": "b",
+    "text": "Creta"
+   },
+   {
+    "key": "c",
+    "text": "Chipre"
+   },
+   {
+    "key": "d",
+    "text": "Malta"
+   }
+  ],
+  "answer": "b",
+  "explanation": "Tito, que era grego, foi deixado para organizar a igreja dos cretenses (Tt 1.5)."
+ },
+ {
+  "id": 195,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual é a Leitura Bíblica da Lição 13?",
+  "options": [
+   {
+    "key": "a",
+    "text": "2 Timóteo 4.1-8"
+   },
+   {
+    "key": "b",
+    "text": "Filipenses 4.10-20"
+   },
+   {
+    "key": "c",
+    "text": "Atos 28.16-31"
+   },
+   {
+    "key": "d",
+    "text": "Romanos 1.1-7"
+   }
+  ],
+  "answer": "b",
+  "explanation": "O texto mostra a gratidão de Paulo pelo apoio da igreja de Filipos."
+ },
+ {
+  "id": 196,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual destes lugares NÃO aparece entre os que Paulo visitou após Atos 28?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Creta"
+   },
+   {
+    "key": "b",
+    "text": "Nicópolis"
+   },
+   {
+    "key": "c",
+    "text": "Trôade"
+   },
+   {
+    "key": "d",
+    "text": "Jerusalém"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A lição cita Creta, Mileto, Éfeso, Trôade, Filipos e Nicópolis, com base nas cartas."
+ },
+ {
+  "id": 197,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual o tema principal da carta aos Gálatas e quando foi escrita?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Liberdade cristã, entre 46 e 48, antes do Concílio de Jerusalém"
+   },
+   {
+    "key": "b",
+    "text": "Alegria no Senhor, em Roma"
+   },
+   {
+    "key": "c",
+    "text": "A volta de Cristo, em Corinto"
+   },
+   {
+    "key": "d",
+    "text": "Perdão e amor, na prisão"
+   }
+  ],
+  "answer": "a",
+  "explanation": "Gálatas foi escrita provavelmente de Antioquia da Síria."
+ },
+ {
+  "id": 198,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Quais cartas formam as \"Cartas Pastorais\"?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Romanos e Gálatas"
+   },
+   {
+    "key": "b",
+    "text": "1 e 2 Timóteo e Tito"
+   },
+   {
+    "key": "c",
+    "text": "Efésios e Colossenses"
+   },
+   {
+    "key": "d",
+    "text": "1 e 2 Tessalonicenses"
+   }
+  ],
+  "answer": "b",
+  "explanation": "São cartas pessoais com conteúdo voltado para pastores."
+ },
+ {
+  "id": 199,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Qual é o tema principal da carta aos Filipenses?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Justificação pela fé"
+   },
+   {
+    "key": "b",
+    "text": "A supremacia de Cristo"
+   },
+   {
+    "key": "c",
+    "text": "A alegria no Senhor"
+   },
+   {
+    "key": "d",
+    "text": "O Dia do Senhor"
+   }
+  ],
+  "answer": "c",
+  "explanation": "Filipenses foi escrita entre 60 e 62 d.C., durante a primeira prisão em Roma."
+ },
+ {
+  "id": 200,
+  "lesson": 13,
+  "lessonTitle": "A Partida e o Legado de Paulo",
+  "prompt": "Por que as epístolas geralmente têm um tom oral, como uma conversa?",
+  "options": [
+   {
+    "key": "a",
+    "text": "Porque eram cantadas no culto"
+   },
+   {
+    "key": "b",
+    "text": "Porque Paulo não sabia escrever"
+   },
+   {
+    "key": "c",
+    "text": "Porque eram ditadas por anjos"
+   },
+   {
+    "key": "d",
+    "text": "Porque tinham o objetivo de substituir a presença do remetente"
+   }
+  ],
+  "answer": "d",
+  "explanation": "A carta fazia as vezes da presença de quem a escrevia, por isso soa como uma conversa."
+ }
+]

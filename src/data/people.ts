@@ -12,7 +12,6 @@ const seed: ReadonlyArray<readonly [id: string, name: string, photo: string | nu
   ['rayson', 'Rayson', null],
   ['richardson', 'Richardson', null],
   ['yasmin', 'Yasmin', 'yasmin'],
-  ['julia-2', 'Júlia (2)', null],
   ['alessandro', 'Alessandro', null],
   ['joao-pedro', 'João Pedro', 'joao_pedro'],
   ['eva', 'Eva', 'eva'],
